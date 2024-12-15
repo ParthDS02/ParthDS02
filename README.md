@@ -19,29 +19,8 @@ I am transitioning from a strong background in market research to a data science
 - **SQL**: PostgreSQL, MySQL, SQLite.
 - **Visualization**: Power BI, Tableau.
 - **Notebooks**: Jupyter, Google Colab.
-
+  
 ---
-
-## 🌟 Credly Certification
-
-[Credly](https://www.credly.com) is a global Open Badge platform where I showcase my professional achievements and certifications.
-
----
-
-## 📊 Project Distribution
-
-### Total Projects: **XX**
-
-#### Based on Skills:
-| Skill                 | Number of Projects |
-|-----------------------|--------------------|
-| Python (NumPy, pandas, etc.) | X |
-| SQL (PostgreSQL, MySQL, etc.)| X |
-| Power BI              | X |
-| Tableau               | X |
-
----
-
 ### 📰 Articles on Medium
 
 New articles are automatically published on my [Medium profile](https://medium.com/@parth.m1413). Stay tuned for the latest updates on data science, AI, and more!
@@ -51,6 +30,6 @@ New articles are automatically published on my [Medium profile](https://medium.c
 ### 📫 Let's Connect
 - [Gmail](mailto:parth.m1413@gmail.com)
 - [Medium](https://medium.com/@parth.m1413)
-- [Credly](https://www.credly.com)
+- [Credly](https://www.credly.com/users/parth-mistry.ecf94d09)
 
 Feel free to explore my repositories and projects!
