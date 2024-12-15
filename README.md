@@ -2,7 +2,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-parth.m1413@gmail.com-red)](mailto:parth.m1413@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-black)](https://medium.com/@parth.m1413)
-[![Credly](https://img.shields.io/badge/Credly-Verified%20Badges-orange)](https://www.credly.com)
+[![Credly](https://img.shields.io/badge/Credly-Verified%20Badges-orange)](https://www.credly.com/users/parth-mistry.ecf94d09)
 
 ---
 
