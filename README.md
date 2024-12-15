@@ -23,7 +23,7 @@ I am transitioning from a strong background in market research to a data science
 ---
 ### 📰 Articles on Medium
 
-New articles are automatically published on my [Medium profile](https://medium.com/@parth.m1413). Stay tuned for the latest updates on data science, AI, and more!
+New articles are published on my [Medium profile](https://medium.com/@parth.m1413). Stay tuned for the latest updates on data science, AI, and more!
 
 ---
 
