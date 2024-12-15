@@ -7,11 +7,11 @@
 ### Project Distribution
 
 <p align="center">
-  <img src="https://github-readme-pie-chart.vercel.app/api?username=parthds02&theme=default&chart=project-distribution" alt="Project distribution pie chart" />
+  <img src="assets/project_distribution.png" alt="Project distribution pie chart" />
 </p>
 
 ---
 
-- 🖋️ **Articles**: I write about data science and analytics on [Medium](https://medium.com/@parth.m1413).
+- 📝 **Articles**: I write about data science and analytics on [Medium](https://medium.com/@parth.m1413).
 
-- 📧 **Email**: Reach me at **parth.m1413@gmail.com**.
+- 📫 **Email**: Reach me at **parth.m1413@gmail.com**.
