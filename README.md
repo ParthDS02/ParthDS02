@@ -21,7 +21,7 @@ Here are my earned Credly badges:
 [![Badge 2](https://images.credly.com/size/200x200/images/10b291eb-f7b2-4df0-af35-dfc5958f146f.png)](https://www.credly.com/earner/earned/badge/10b291eb-f7b2-4df0-af35-dfc5958f146f)
 [![Badge 3](https://images.credly.com/size/200x200/images/19f402be-d415-47e0-bdd0-306d6af83603.png)](https://www.credly.com/earner/earned/badge/19f402be-d415-47e0-bdd0-306d6af83603)
 [![Badge 4](https://images.credly.com/size/200x200/images/9d209f5f-57e0-4b7d-95a4-ad7de9e3f57f.png)](https://www.credly.com/earner/earned/badge/9d209f5f-57e0-4b7d-95a4-ad7de9e3f57f)
-[![Badge 5](https://images.credly.com/size/200x200/images/e5a2110a-9b1e-4e51-a9cb-24ea030d6bfd.png)](https://www.credly.com/earner/earned/badge/e5a2110a-9b1e-4e51-a9cb-24ea030d6bfd)
+[![![image](https://github.com/user-attachments/assets/0e38b62f-fb32-4020-9893-8ade33e8bd9f)](https://images.credly.com/size/200x200/images/e5a2110a-9b1e-4e51-a9cb-24ea030d6bfd.png)](https://www.credly.com/earner/earned/badge/e5a2110a-9b1e-4e51-a9cb-24ea030d6bfd)
 
 
 # 📊 GitHub Stats:
