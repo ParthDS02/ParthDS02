@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Parth B Mistry
+![](https://github.com/ParthDS02/ParthDS02/blob/main/github-header-image.png)
 
 [![Gmail](https://img.shields.io/badge/Gmail-parth.m1413@gmail.com-red)](mailto:parth.m1413@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-black)](https://medium.com/@parth.m1413)
