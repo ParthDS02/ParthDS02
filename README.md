@@ -1,11 +1,11 @@
-![](https://github.com/ParthDS02/ParthDS02/blob/main/github-header-image.png)
+# Hi i am Parth B Mistry
 
 [![Gmail](https://img.shields.io/badge/Gmail-parth.m1413@gmail.com-red)](mailto:parth.m1413@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-Read%20My%20Articles-black)](https://medium.com/@parth.m1413)
 [![Credly](https://img.shields.io/badge/Credly-Verified%20Badges-orange)](https://www.credly.com/users/parth-mistry.ecf94d09)
 
 # 💫 About Me:
-I am transitioning from a strong background in market research to a data science role. With an MBA and M.Sc. in Biotechnology, I blend analytical skills with technical expertise to create data-driven solutions. My passion for harnessing data to solve complex problems drives me to constantly explore new tools and techniques. I focus on machine learning, AI, and statistical modeling to deliver actionable insights, optimize processes, and support data-driven decision-making.
+Welcome to my GitHub profile! I'm parth mistry I am transitioning from a strong background in market research to a data science role. With an MBA and M.Sc. in Biotechnology, I blend analytical skills with technical expertise to create data-driven solutions. My passion for harnessing data to solve complex problems drives me to constantly explore new tools and techniques. I focus on machine learning, AI, and statistical modeling to deliver actionable insights, optimize processes, and support data-driven decision-making.
 
 
 ## 🌐 Socials:
