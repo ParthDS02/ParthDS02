@@ -15,12 +15,21 @@ Welcome to my GitHub profile! I'm parth mistry, currently am transitioning from 
 
 ## Credly Badges
 
-Here are my earned Credly badges:
-![image](https://github.com/user-attachments/assets/6fb33245-7372-4175-ab96-397f6cbfedab) https://www.credly.com/earner/earned/badge/9d209f5f-57e0-4b7d-95a4-ad7de9e3f57f
-![image](https://github.com/user-attachments/assets/565e9e10-e5ad-4b67-8cac-2a8413b7f9a9) https://www.credly.com/earner/earned/badge/4c1ba39d-bc4c-474d-8204-7b6c65a1a10a
-![image](https://github.com/user-attachments/assets/8e26a982-7eda-406c-83b6-5291b1691ca9) https://www.credly.com/earner/earned/badge/19f402be-d415-47e0-bdd0-306d6af83603
-![image](https://github.com/user-attachments/assets/a0b1c560-fa0d-49f6-a80b-af8783c71bdd) https://www.credly.com/earner/earned/badge/10b291eb-f7b2-4df0-af35-dfc5958f146f
-![image](https://github.com/user-attachments/assets/0a719503-0a3f-45f2-b231-d6ae2d4913a9) https://www.credly.com/earner/earned/badge/e5a2110a-9b1e-4e51-a9cb-24ea030d6bfd
+<a href="https://www.credly.com/earner/earned/badge/9d209f5f-57e0-4b7d-95a4-ad7de9e3f57f">
+  <img src="https://github.com/user-attachments/assets/6fb33245-7372-4175-ab96-397f6cbfedab" alt="Badge 1" width="100"/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/4c1ba39d-bc4c-474d-8204-7b6c65a1a10a">
+  <img src="https://github.com/user-attachments/assets/565e9e10-e5ad-4b67-8cac-2a8413b7f9a9" alt="Badge 2" width="100"/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/19f402be-d415-47e0-bdd0-306d6af83603">
+  <img src="https://github.com/user-attachments/assets/8e26a982-7eda-406c-83b6-5291b1691ca9" alt="Badge 3" width="100"/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/10b291eb-f7b2-4df0-af35-dfc5958f146f">
+  <img src="https://github.com/user-attachments/assets/a0b1c560-fa0d-49f6-a80b-af8783c71bdd" alt="Badge 4" width="100"/>
+</a>
+<a href="https://www.credly.com/earner/earned/badge/e5a2110a-9b1e-4e51-a9cb-24ea030d6bfd">
+  <img src="https://github.com/user-attachments/assets/0a719503-0a3f-45f2-b231-d6ae2d4913a9" alt="Badge 5" width="100"/>
+</a>
 
 
 
