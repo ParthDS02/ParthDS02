@@ -3,10 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&color=F7D747&center=true&vCenter=true&width=800&lines=Hi+I'm+Parth+Mistry;Data+Scientist+%7C+AI+Engineer+in+Progress;AI+Agent+Builder+%7C+ML+Practitioner;Turning+Ideas+Into+Intelligent+Systems" />
 </p>
 
-<!-- Working Clean Divider -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://github.com/JanMeeks/gif-collection/blob/main/dividers/gold-divider.gif?raw=true" width="100%" />
 </div>
+
 
 ---
 
@@ -106,8 +106,6 @@ I specialize in:
 
 <div align="center">
 
-### 🔥 Visitors  
-<img src="https://visitcount.itsvg.in/api?id=ParthDS02&label=Profile%20Views&color=F7D747&icon=2" />
 
 </div>
 
