@@ -1,17 +1,14 @@
-<!-- ========================= -->
-<!-- Premium Black & Gold + AI Agent Theme -->
-<!-- ========================= -->
-
 <!-- Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=32&color=F7D747&center=true&vCenter=true&width=800&lines=Hi+I'm+Parth+Mistry;Data+Scientist+%7C+AI+Engineer+in+Progress;AI+Agent+Builder+%7C+ML+Practitioner;Turning+Ideas+Into+Intelligent+Systems" />
 </p>
 
+<!-- Working Clean Divider -->
 <div align="center">
-  
-![gold-line](https://github.com/user-attachments/assets/b049dd9d-eab5-49d5-9af1-1701f75f1a64)
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </div>
+
+---
 
 # ✨ **About Me**
 I am **Parth Mistry**, transitioning from a strong background in **Market Research** to a professional journey in **Data Science, Machine Learning, and AI Agents**.
@@ -28,16 +25,6 @@ I specialize in:
 - Designing **end-to-end ML workflows**
 - Developing **intelligent dashboards**
 - Exploring **AI + Business integration**
-
----
-
-# 🥇 **Profile Highlights**
-✔ AI-Agent–style interactive profile  
-✔ Premium Black & Gold palette  
-✔ Professional branding  
-✔ Typing animation header  
-✔ Recruiter-friendly layout  
-✔ Clean aesthetic with futuristic identity  
 
 ---
 
@@ -96,7 +83,6 @@ I specialize in:
 ---
 
 # 📊 **GitHub Analytics**
-
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthDS02&theme=highcontrast&ring=F7D747&fire=F7D747&currStreakLabel=F7D747" />
@@ -121,7 +107,7 @@ I specialize in:
 <div align="center">
 
 ### 🔥 Visitors  
-![Visitor Count](https://visitcount.itsvg.in/api?id=ParthDS02&label=Profile%20Views&color=F7D747&icon=2)
+<img src="https://visitcount.itsvg.in/api?id=ParthDS02&label=Profile%20Views&color=F7D747&icon=2" />
 
 </div>
 
