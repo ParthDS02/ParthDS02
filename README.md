@@ -13,19 +13,6 @@
 
 </div>
 
----
-
-# 🤖 **Cognivault AI Persona**  
-*A signature AI identity that represents my work in automation, intelligent systems, and AI-driven solutions.*
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/6ac1892d-31f3-4b15-9fbc-7c2034622eab" width="280" />
-  <br/>
-  <b><i>Your Intelligent AI Assistant — Designed, Refined & Built by Parth.</i></b>
-</div>
-
----
-
 # ✨ **About Me**
 I am **Parth Mistry**, transitioning from a strong background in **Market Research** to a professional journey in **Data Science, Machine Learning, and AI Agents**.
 
